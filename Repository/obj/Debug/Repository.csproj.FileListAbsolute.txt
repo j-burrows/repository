@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Repository\bin\Debug\Repository.dll
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Repository\bin\Debug\Repository.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Repository\obj\Debug\Repository.dll
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Repository\obj\Debug\Repository.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Repository\bin\Debug\MySql.Data.dll
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Repository\bin\Debug\MySql.Data.Entity.dll

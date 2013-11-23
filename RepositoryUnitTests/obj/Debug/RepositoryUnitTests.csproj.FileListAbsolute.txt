@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\RepositoryUnitTests\obj\Debug\RepositoryUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\RepositoryUnitTests\bin\Debug\RepositoryUnitTests.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\RepositoryUnitTests\bin\Debug\RepositoryUnitTests.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\RepositoryUnitTests\bin\Debug\Repository.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\RepositoryUnitTests\bin\Debug\MySql.Data.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\RepositoryUnitTests\bin\Debug\Repository.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\RepositoryUnitTests\obj\Debug\RepositoryUnitTests.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\RepositoryUnitTests\obj\Debug\RepositoryUnitTests.pdb

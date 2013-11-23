@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\bin\Debug\DebugTest.exe.config
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\bin\Debug\DebugTest.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\bin\Debug\DebugTest.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\bin\Debug\Repository.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\bin\Debug\RepositoryUnitTests.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\bin\Debug\MySql.Data.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\bin\Debug\RepositoryUnitTests.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\bin\Debug\Repository.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\obj\Debug\DebugTest.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\obj\Debug\DebugTest.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Repository5\DebugTest\obj\Debug\DebugTest.pdb

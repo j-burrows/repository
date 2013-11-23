@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Test\bin\Debug\Test.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Test\bin\Debug\Test.exe
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Test\bin\Debug\Test.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Test\bin\Debug\Repository.dll
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Test\bin\Debug\Repository.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Test\obj\Debug\Test.exe
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Test\obj\Debug\Test.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Repository5\Test\bin\Debug\MySql.Data.dll
